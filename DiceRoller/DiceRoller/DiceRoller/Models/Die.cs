@@ -7,7 +7,7 @@ namespace DiceRoller.Models
     public class Die
     {
         //name,type, or colour of the die
-        public String Name { get; set; }
+        public string Name { get; set; }
 
         //how many sides are the die
         public int NumSides { get; set; }
@@ -28,6 +28,9 @@ namespace DiceRoller.Models
             Name = "d" + numSides;
             Roll();
         }
+
+        //public void SetSide() { }
+        
 
         public void Roll()
         {
