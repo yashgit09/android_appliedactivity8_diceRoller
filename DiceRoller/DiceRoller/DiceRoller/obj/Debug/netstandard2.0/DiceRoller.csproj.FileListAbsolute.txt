@@ -1,0 +1,15 @@
+D:\Masters\Android\DiceRoller\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.csproj.AssemblyReference.cache
+D:\Masters\Android\DiceRoller\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.GeneratedMSBuildEditorConfig.editorconfig
+D:\Masters\Android\DiceRoller\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Masters\Android\DiceRoller\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Masters\Android\DiceRoller\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.AssemblyInfoInputs.cache
+D:\Masters\Android\DiceRoller\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.AssemblyInfo.cs
+D:\Masters\Android\DiceRoller\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.csproj.CoreCompileInputs.cache
+D:\Masters\Android\DiceRoller\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\DiceRoller.deps.json
+D:\Masters\Android\DiceRoller\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\DiceRoller.dll
+D:\Masters\Android\DiceRoller\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\DiceRoller.pdb
+D:\Masters\Android\DiceRoller\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Masters\Android\DiceRoller\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.dll
+D:\Masters\Android\DiceRoller\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\refint\DiceRoller.dll
+D:\Masters\Android\DiceRoller\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.pdb
+D:\Masters\Android\DiceRoller\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\ref\DiceRoller.dll
